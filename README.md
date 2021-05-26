@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and Django
 - 📫 How to reach me: Mail me at : atharvamahamuni54@gmail.com 
 
-</br></br>
 
 <a href="https://twitter.com/_atharvmahamuni">
   <img align="left" alt="Atharva Mahamuni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -32,6 +31,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+</br></br>
 </br>
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMahamuni)](https://github.com/AtharvaMahamuni/github-readme-stats)
