@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I am Atharva Mahamuni </br>
-I like to code and learn and improve the tech.
+I like to code, learn and improve the tech.
 
 
 <!--
