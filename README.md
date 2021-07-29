@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail me at : atharvamahamuni54@gmail.com 
 
 
-<a href="https://twitter.com/_atharvmahamuni">
+<a href="https://twitter.com/AtharvaMaha">
   <img align="left" alt="Atharva Mahamuni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
