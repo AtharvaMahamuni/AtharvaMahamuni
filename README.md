@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python and Django
+<!-- - 🌱 I’m currently learning Python and Django -->
 - 📫 How to reach me: Mail me at : atharvamahamuni54@gmail.com 
 
 
