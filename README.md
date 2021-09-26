@@ -3,6 +3,9 @@
 ### I am Atharva Mahamuni </br>
 I like to code, learn and improve the tech.
 
+</br>
+###Read my Tech blogs - https://atharvamahamuni.hashnode.dev/
+
 
 <!--
 **AtharvaMahamuni/AtharvaMahamuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
