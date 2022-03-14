@@ -3,7 +3,7 @@
 ### I am Atharva Mahamuni </br>
 I like to code, learn and improve the tech.
 </br>
-Freelance technical writer at ![Scaler Topics](https://scaler.com/topics/)
+Technical writer at [Scaler Topics](https://scaler.com/topics/)
 
 </br>
 ###Read my Tech blogs - https://atharvamahamuni.hashnode.dev/
