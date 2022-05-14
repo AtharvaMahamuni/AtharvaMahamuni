@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-### I am Atharva Mahamuni </br>
+### I am Atharva Mahamuni 
+</br>
+<a href="https://twitter.com/AtharvaMaha">
+  <img align="left" alt="Atharva Mahamuni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/atharva-mahamuni-575138179/">
+  <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</br></br>
 I like to write, learn and teach about tech.
 </br>
 Full-Stack Developer.
@@ -39,15 +49,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://twitter.com/AtharvaMaha">
-  <img align="left" alt="Atharva Mahamuni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/atharva-mahamuni-575138179/">
-  <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-</br></br>
 </br>
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMahamuni)](https://github.com/AtharvaMahamuni/github-readme-stats)
