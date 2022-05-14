@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 ### I am Atharva Mahamuni </br>
-I like to write code. I am a Full-Stack Developer.
+I like to write, learn and teach about tech.
 </br>
-Technical writer at [Scaler Topics](https://scaler.com/topics/)
+Full-Stack Developer.
+</br>
+Technical writer at [Scaler Topics](https://scaler.com/topics/) && Senior Analyst Intern at [Capgemini](https://www.linkedin.com/search/results/all/?keywords=capgemini&origin=RICH_QUERY_SUGGESTION&position=0&searchId=87c111d0-27a6-4e77-9add-c334f4eaa60a&sid=-vt)
 </br>
 Some of my Articles on Scaler Topics - 
 </br>
@@ -15,9 +17,8 @@ Some of my Articles on Scaler Topics -
 </br>
 [What is DBMS](https://www.scaler.com/topics/what-is-dbms/)
 </br>
-
+[HashNode blog](https://atharvamahamuni.hashnode.dev/)
 </br>
-###Read my Tech blogs - https://atharvamahamuni.hashnode.dev/
 
 
 ## Full Stack Project - https://vavar-e-cart-web-client.vercel.app/
