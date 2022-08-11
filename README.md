@@ -15,9 +15,9 @@ I like to write, learn and teach about tech.
 </br>
 Full-Stack Developer.
 </br>
-Technical writer at [Scaler Topics](https://scaler.com/topics/) && Senior Analyst Intern at [Capgemini](https://www.linkedin.com/search/results/all/?keywords=capgemini&origin=RICH_QUERY_SUGGESTION&position=0&searchId=87c111d0-27a6-4e77-9add-c334f4eaa60a&sid=-vt)
+Senior Analyst Intern at [Capgemini](https://www.linkedin.com/search/results/all/?keywords=capgemini&origin=RICH_QUERY_SUGGESTION&position=0&searchId=87c111d0-27a6-4e77-9add-c334f4eaa60a&sid=-vt)
 </br>
-Some of my Articles on Scaler Topics - 
+Read my articles on the Inernet - 
 </br>
 [C++ Program](https://www.scaler.com/topics/basic-programs-in-cpp/)
 </br>
