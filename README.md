@@ -33,7 +33,7 @@ Some of my Articles on Scaler Topics -
 
 #### Full Stack Project - [Project vavar](https://vavar-e-cart-web-client.vercel.app/)
 
-#### Front-end clones and desings in web dev - [Clones and Desings](https://github.com/AtharvaMahamuni/HTML-CSS-Projects) 
+#### Front-end clones and desings in web dev - [Clones and Designs](https://github.com/AtharvaMahamuni/HTML-CSS-Projects) 
 
 <!--
 **AtharvaMahamuni/AtharvaMahamuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
