@@ -2,7 +2,7 @@
 
 ### I am Atharva Mahamuni 
 </br>
-<a href="https://twitter.com/AtharvaMaha">
+<a href="https://twitter.com/athmatwt">
   <img align="left" alt="Atharva Mahamuni | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
