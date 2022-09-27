@@ -11,11 +11,8 @@
 
 <br>
 
-
-<br>
-
 <div> 
-  <h4>I am a generalist programmer, like to experiment with variety of tech stacks till date I have tried following technologies - </h4>
+  <h4>I am a generalist programmer, like to experiment with variety of tech stacks till date I have tried following tools and technologies - </h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
