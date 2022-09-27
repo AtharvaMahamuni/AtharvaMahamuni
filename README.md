@@ -11,11 +11,11 @@
 
 <br>
 
-<h4>I am a generalist programmer, like to experiment with variety of tech stacks till date I have tried following technologies - </h4>
 
 <br>
 
 <div> 
+  <h4>I am a generalist programmer, like to experiment with variety of tech stacks till date I have tried following technologies - </h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="expressJS" alt="expressJS" width="40" height="40"/>&nbsp;
@@ -38,6 +39,10 @@
 </div>
 
 <br>
+
+<p>But all this are just the tools and beauty lies in the first princples; problems that tool is solving, automating and optimizing to make the world little better place.<p>
+  
+<br> 
 
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMahamuni&show_icons=true&theme=merko&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMahamuni&layout=compact&theme=merko)](https://github.com/AtharvaMahamuni/github-readme-stats)
