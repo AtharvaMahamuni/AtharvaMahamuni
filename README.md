@@ -41,5 +41,15 @@
   
 <br> 
 
+I like to write and collect my thoughts on technology, while doing so I started to write the blogs, I kept them on the Internet so that anyone can read and get insights from.
+
+<br>
+
+My Blogging site on HashNode => [https://atharvamahamuni.hashnode.dev](https://atharvamahamuni.hashnode.dev)
+<br>
+List of my blogs on Scaler Topics technopedia => [Here](https://github.com/AtharvaMahamuni/AtharvaMahamuni/blob/main/scalerTopicsArticles.md)
+
+<br>
+
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMahamuni&show_icons=true&theme=merko&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMahamuni&layout=compact&theme=merko)](https://github.com/AtharvaMahamuni/github-readme-stats)
