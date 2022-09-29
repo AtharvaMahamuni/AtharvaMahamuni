@@ -48,6 +48,8 @@ I like to write and collect my thoughts on technology, while doing so I started 
 My Blogging site on HashNode => [https://atharvamahamuni.hashnode.dev](https://atharvamahamuni.hashnode.dev)
 <br>
 List of my blogs on Scaler Topics technopedia => [Here](https://github.com/AtharvaMahamuni/AtharvaMahamuni/blob/main/scalerTopicsArticles.md)
+<br>
+List of Certificates => [Here](https://github.com/AtharvaMahamuni/My-Certificates)
 
 <br>
 
