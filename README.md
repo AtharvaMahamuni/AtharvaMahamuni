@@ -10,16 +10,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-atharvamahamuni@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atharvamahamuni@outlook.com)](mailto:atharvamahamuni@outlook.com)
 <br>
 
-<p align="left">I like to describe myself as a first principle thinker and tinkerer/hacker. I like to build stuff for there own sake and improve them to make them more meaningful. I have interest in technology and businesses from childhood.</p>
+<p align="left">I am the first principle thinker, tinkerer/hacker, and generalist. I like to build stuff for its own sake and improve them to make them more meaningful. I have been interested in technology and businesses since childhood.</p>
 
 <br>
 
-<p>Wrote my first line of code in 2018 and from that time never looked back. I am big promoter of first principle thinking, boiling a process down to the fundamental parts you know and building up from there. Here on this repositories you can find my various projects, links for my work, and some scrappy garbadge code which works (feel free to improve and make a pull request)😁.</p>
+<p>I wrote my first line of code in 2017 and started to like the idea of building something from nothing. Here in these repositories, you will find my various projects, links for my work, and some scrappy garbage code that works (feel free to improve and make a pull request)😁.</p>
 
 <br>
 
 <div> 
-  <h4>I am a generalist programmer, like to experiment with variety of tech stacks till date I have tried following tools and technologies - </h4>
+  <h4>I am a generalist computer programmer; who likes to experiment with different tech stacks. I have played with many tech stacks and programming languages, and the following are the few ones that I know -</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,19 +44,21 @@
 
 <br>
 
-<p>But all this are just the tools and real art lies in the first princples; problems that tool is solving, automating and optimizing to make the world little better place.<p>
+<p>But all these are just tools; the real art lies in the first principles of technology. The choice of that tool depends on what it is trying to solve in the real world to make it a little better with every line of code.<p>
   
 <br> 
 
-I like to write and collect my thoughts on technology, while doing so I started to write the blogs, I kept them on the Internet so that anyone can read and get insights from.
+<p>I like to write and collect my thoughts about technology.  I started to write technical blogs to learn and educate.  
+<p>
 
 <br>
 
-My Blogging site on HashNode => [https://atharvamahamuni.hashnode.dev](https://atharvamahamuni.hashnode.dev)
+Hashnode blogging site => [https://atharvamahamuni.hashnode.dev](https://atharvamahamuni.hashnode.dev)
 <br>
-List of my blogs on Scaler Topics technopedia => [Here](https://github.com/AtharvaMahamuni/AtharvaMahamuni/blob/main/scalerTopicsArticles.md)
+Blogs published on Scaler Topics technopedia => [Here](https://github.com/AtharvaMahamuni/AtharvaMahamuni/blob/main/scalerTopicsArticles.md)
 <br>
-List of Certificates => [Here](https://github.com/AtharvaMahamuni/My-Certificates)
+
+List of Certificates(courses/bootcamps/competitions) => [Here](https://github.com/AtharvaMahamuni/My-Certificates)
 
 <br>
 
