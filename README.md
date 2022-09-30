@@ -3,6 +3,13 @@
 
 <br>
 
+<p>Contact me on - <p>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/athmatwt?style=social)
+![Github Follow](https://img.shields.io/github/followers/AtharvaMahamuni?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-atharvamahamuni@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atharvamahamuni@outlook.com)](mailto:atharvamahamuni@outlook.com)
+<br>
+
 <p align="left">I like to describe myself as a first principle thinker and tinkerer/hacker. I like to build stuff for there own sake and improve them to make them more meaningful. I have interest in technology and businesses from childhood.</p>
 
 <br>
@@ -37,7 +44,7 @@
 
 <br>
 
-<p>But all this are just the tools and beauty lies in the first princples; problems that tool is solving, automating and optimizing to make the world little better place.<p>
+<p>But all this are just the tools and real art lies in the first princples; problems that tool is solving, automating and optimizing to make the world little better place.<p>
   
 <br> 
 
