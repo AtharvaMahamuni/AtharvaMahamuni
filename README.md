@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Mahamuni</h1>
+<h1 align="center">Hey👋, I'm Atharva Mahamuni</h1>
 <h3 align="center"> .💻.⚙️.🤖.🦾. Hobbyist Software Developer / Nerdy Technophile / Hardcore Generalist .🛠️.🌐.🚀.👨🏻‍💻.</h3>
 
 <br>
