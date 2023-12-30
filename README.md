@@ -19,7 +19,3 @@ Hashnode blogging site => [https://atharvamahamuni.hashnode.dev](https://atharva
 <br>
 Blogs published on Scaler Topics technopedia => [Here](https://github.com/AtharvaMahamuni/AtharvaMahamuni/blob/main/scalerTopicsArticles.md)
 <br>
-<br>
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=AtharvaMahamuni&show_icons=true&theme=merko&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaMahamuni&layout=compact&theme=merko)](https://github.com/AtharvaMahamuni/github-readme-stats)
