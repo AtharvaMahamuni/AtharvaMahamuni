@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-atharvamahamuni@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atharvamahamuni@outlook.com)](mailto:atharvamahamuni@outlook.com)
 <br>
 
-<p align="left">I am the first principle thinker, tinkerer/hacker, and generalist. I like to build stuff for its own sake and improve them to make them more meaningful. I have been interested in technology and businesses since childhood. You can see some of my work here.</p>
+<p align="left">I am a first principle thinker, tinkerer/hacker, and generalist. I like to build stuff for its own sake and improve it to make it more meaningful. I have been interested in technology and business since childhood. You can see some of my work here.</p>
 
 <br>
 <br>
